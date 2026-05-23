@@ -1,0 +1,61 @@
+﻿id,orderId,name,amount,price
+1,1,Margherita,1,1890
+2,1,Quattro Formaggi,1,2790
+3,2,Kolbászos,3,2790
+4,2,Sonkás,3,2290
+5,3,Sonkás,1,2290
+6,3,Carbonara,1,3090
+7,3,BBQ csirkés,1,2990
+8,3,Margherita,1,1890
+9,4,Carbonara,3,3090
+10,4,Margherita,3,1890
+11,4,Vegetáriánus,3,2590
+12,4,Pepperoni,2,2490
+13,5,Pepperoni,1,2490
+14,5,Mexikói,4,2890
+15,5,Carbonara,4,3090
+16,6,Hawaii,1,2390
+17,6,BBQ csirkés,1,2990
+18,7,Pepperoni,1,2490
+19,7,Magyaros,1,2690
+20,8,Sonkás,2,2290
+21,8,Magyaros,1,2690
+22,8,Tonhalas,4,2890
+23,9,Kolbászos,2,2790
+24,9,Mexikói,1,2890
+25,10,Sonkás,4,2290
+26,10,Vegetáriánus,3,2590
+27,10,Quattro Formaggi,2,2790
+28,11,Carbonara,1,3090
+29,11,Pepperoni,3,2490
+30,11,Sonkás,1,2290
+31,12,Sonkás,2,2290
+32,12,Pepperoni,1,2490
+33,12,Kolbászos,2,2790
+34,13,Hawaii,1,2390
+35,13,Magyaros,3,2690
+36,13,Tonhalas,1,2890
+37,14,Carbonara,1,3090
+38,14,Tonhalas,2,2890
+39,15,Hawaii,2,2390
+40,15,Mexikói,1,2890
+41,16,Pepperoni,1,2490
+42,16,Tonhalas,4,2890
+43,16,Magyaros,1,2690
+44,16,Margherita,4,1890
+45,17,BBQ csirkés,1,2990
+46,17,Quattro Formaggi,2,2790
+47,17,Sonkás,3,2290
+48,18,Pepperoni,2,2490
+49,18,Tonhalas,3,2890
+50,18,Mexikói,2,2890
+51,19,Quattro Formaggi,1,2790
+52,19,Hawaii,3,2390
+53,20,Vegetáriánus,2,2590
+54,20,Quattro Formaggi,2,2790
+55,20,Carbonara,1,3090
+56,20,BBQ csirkés,1,2990
+57,21,Vegetáriánus,1,2590
+58,21,Mexikói,4,2890
+59,22,Sonkás,3,2290
+60,22,Hawaii,1,2390
